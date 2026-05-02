@@ -1,0 +1,7 @@
+﻿  debug.cpp
+  syscall_gate.cpp
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+  All 129 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  syscall-mem.vcxproj -> C:\Users\kilip\source\repos\syscall-mem\x64\Release\syscall-mem.exe
